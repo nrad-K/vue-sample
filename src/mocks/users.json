@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "email": "johndoe@example.com",
+    "username": "johndoe",
+    "password": "jsonplaceholder.org",
+    "company": "ABC Company",
+    "phone": "(555) 555-1234",
+    "website": "www.johndoe.com"
+  },
+  {
+    "id": 2,
+    "email": "janesmith@example.com",
+    "username": "janesmith",
+    "password": "jsonplaceholder.org",
+    "company": "XYZ Corporation",
+    "phone": "(555) 555-5678",
+    "website": "www.janesmith.com"
+  },
+  {
+    "id": 3,
+    "email": "bobjohnson@example.com",
+    "username": "bobjohnson",
+    "password": "jsonplaceholder.org",
+    "company": "Acme Corporation",
+    "phone": "(555) 555-9012",
+    "website": "www.bobjohnson.com"
+  },
+  {
+    "id": 4,
+    "email": "emilydavis@example.com",
+    "username": "emilydavis",
+    "password": "jsonplaceholder.org",
+    "company": "GHI Corporation",
+    "phone": "(555) 555-3456",
+    "website": "www.emilydavis.com"
+  },
+  {
+    "id": 5,
+    "email": "williambrown@example.com",
+    "username": "williambrown",
+    "password": "jsonplaceholder.org",
+    "company": "JKL Industries",
+    "phone": "(555) 555-6789",
+    "website": "www.williambrown.com"
+  },
+  {
+    "id": 6,
+    "email": "laurawilson@example.com",
+    "username": "laurawilson",
+    "password": "jsonplaceholder.org",
+    "company": "LMN Corporation",
+    "phone": "(555) 555-1234",
+    "website": "www.laurawilson.com"
+  },
+  {
+    "id": 7,
+    "email": "michaelgarcia@example.com",
+    "username": "michaelgarcia",
+    "password": "jsonplaceholder.org",
+    "company": "NOP Enterprises",
+    "phone": "(555) 555-9012",
+    "website": "www.michaelgarcia.com"
+  },
+  {
+    "id": 8,
+    "email": "stephanielee@example.com",
+    "username": "stephanielee",
+    "password": "jsonplaceholder.org",
+    "company": "PQR Industries",
+    "phone": "(555) 555-3456",
+    "website": "www.stephanielee.com"
+  },
+  {
+    "id": 9,
+    "email": "davidhernandez@example.com",
+    "username": "davidhernandez",
+    "password": "jsonplaceholder.org",
+    "company": "RST Corporation",
+    "phone": "(555) 555-6789",
+    "website": "www.davidhernandez.com"
+  },
+  {
+    "id": 10,
+    "email": "jessicaperez@example.com",
+    "username": "jessicaperez",
+    "password": "jsonplaceholder.org",
+    "company": "UVW Corporation",
+    "phone": "(555) 555-9012",
+    "website": "www.jessicaperez.com"
+  }
+]
